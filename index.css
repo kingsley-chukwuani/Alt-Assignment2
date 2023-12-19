@@ -177,8 +177,9 @@ input::placeholder {
     font-size: 32px;
   }
 
-  .input-group .input-group select {
+  .input-group input, .input-group select {
     flex-basis: 100%;
+    width:100%
   }
 
   .form {
