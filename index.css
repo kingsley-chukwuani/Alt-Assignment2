@@ -166,6 +166,7 @@ input::placeholder {
   }
   .mobile {
     display: block;
+    display:flex;
 
   }
   .info-container {
@@ -176,7 +177,7 @@ input::placeholder {
     font-size: 32px;
   }
 
-  .input-group {
+  .input-group .input-group select {
     flex-basis: 100%;
   }
 
